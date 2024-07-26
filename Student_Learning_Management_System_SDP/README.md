@@ -1,4 +1,4 @@
-# Course Management Application
+# Student_Learning_Management_System_SDP
 This is a course management application built using Spring Boot. It allows students to choose courses and start learning. The application also includes teachers who are assigned to each course.
 Entity Classes
 The project consists of four entity classes:
